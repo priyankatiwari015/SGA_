@@ -1,0 +1,37 @@
+*{
+	font-family: Montserrat;
+}
+a
+{
+	color: black;
+}
+.navbar
+{
+	background:#cbeaed;
+}
+#products_available
+{
+	margin: 10px;
+}
+.image-container
+{
+	text-align: center;
+}
+.sec-service
+{
+	padding: 30px;
+}
+#batpara
+{
+	text-align: right;
+}
+.footer
+{   margin-top: 10px;
+	background-color: #222831;
+	color: white;
+	font-family: Playfair Display;
+}
+.footer  a
+{
+	color: white;
+}
